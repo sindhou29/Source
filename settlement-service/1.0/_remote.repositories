@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Oct 01 16:40:02 SGT 2018
+settlement-service-1.0.pom>=
+settlement-service-1.0.war>=

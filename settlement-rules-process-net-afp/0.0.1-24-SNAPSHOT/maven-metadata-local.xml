@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.emc</groupId>
+  <artifactId>settlement-rules-process-net-afp</artifactId>
+  <version>0.0.1-24-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20180829061732</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-24-SNAPSHOT</value>
+        <updated>20180829061732</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-24-SNAPSHOT</value>
+        <updated>20180829061732</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<container-spec-details>
+    <container-id>com.emc:settlement-rules-process-net-afp:29</container-id>
+    <container-name>com.emc:settlement-rules-process-net-afp:29</container-name>
+    <server-template-key>
+        <server-id>dev-kie-server</server-id>
+    </server-template-key>
+    <release-id>
+        <artifact-id>settlement-rules-process-net-afp</artifact-id>
+        <group-id>com.emc</group-id>
+        <version>29</version>
+    </release-id>
+    <configs> 
+        <entry>
+            <key>PROCESS</key>
+            <value xsi:type="processConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <strategy>Per Process Instance</strategy>
+                <kie-base-name></kie-base-name>
+                <kie-session-name></kie-session-name>
+                <merge-mode>Merge Collections</merge-mode>
+            </value>
+        </entry>
+        <!--<entry>
+                         <key>RULE</key>
+            <value xsi:type="ruleConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <scannerStatus>STOPPED</scannerStatus>
+            </value>
+        </entry>-->
+    </configs>
+    <status>STARTED</status>
+</container-spec-details>

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 31 17:31:44 SGT 2018
+http\://10.1.152.124\:10080/business-central/maven2/.error=Could not transfer artifact com.emc\:settlement-model\:pom\:1.3 from/to guvnor-m2-repo (http\://10.1.152.124\:10080/business-central/maven2/)\: Unauthorized (401)
+https\://repo.maven.apache.org/maven2/.lastUpdated=1527759104151
+@default-guvnor-m2-repo-http\://10.1.152.124\:10080/business-central/maven2/.lastUpdated=1527759103522
+https\://repo.maven.apache.org/maven2/.error=
